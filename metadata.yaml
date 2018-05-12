@@ -1,0 +1,32 @@
+_repo: The-Harvard-Classics-Volume-49-Epic-and-SagaWith-Introductions-And-Notes_14019
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Eliot, Charles William
+    birthdate: 1834
+    deathdate: 1926
+    gutenberg_agent_id: '6399'
+    url: http://www.gutenberg.org/2009/agents/6399
+    wikipedia: http://en.wikipedia.org/wiki/Charles_William_Eliot
+description: ''
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2004-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14019'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sagas'
+- !lcc 'PN'
+- !lcsh 'Epic poetry'
+tableOfContents: "The Song of Roland\r\nThe Destruction of Dá Derga's Hostel"
+title: 'The Harvard Classics, Volume 49, Epic and Saga
+
+  With Introductions And Notes'
+url: http://www.gutenberg.org/ebooks/14019
