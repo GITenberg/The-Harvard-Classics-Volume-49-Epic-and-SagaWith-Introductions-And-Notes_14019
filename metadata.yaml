@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6399
     wikipedia: http://en.wikipedia.org/wiki/Charles_William_Eliot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14019#The-Harvard-Classics-Volume-49-Epic-and-SagaWith-Introductions-And-Notes
 gutenberg_bookshelf: Harvard Classics
 gutenberg_issued: '2004-11-11'
 gutenberg_type: Text
